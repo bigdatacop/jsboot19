@@ -1,0 +1,27 @@
+{
+  "name": "jsboot19",
+  "version": "1.0.0",
+  "description": "JavaScript Bootcamp by Andrew Mead - Udemy",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdatacop/jsboot19.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigdatacop/jsboot19/issues"
+  },
+  "homepage": "https://github.com/bigdatacop/jsboot19#readme"
+}
